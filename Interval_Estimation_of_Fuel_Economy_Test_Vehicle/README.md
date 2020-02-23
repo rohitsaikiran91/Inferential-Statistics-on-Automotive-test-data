@@ -1,1 +1,1 @@
-# Inferential-Statistics-on-Automotive-test-data
+# Interval Estimation of Fuel Economy(Kmpl or gallons/100 Km) based on test data from vehicles

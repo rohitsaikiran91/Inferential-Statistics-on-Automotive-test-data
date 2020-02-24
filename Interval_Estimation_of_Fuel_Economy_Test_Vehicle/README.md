@@ -20,10 +20,11 @@ The best representation of fuel economy of a vehicle is the one determined when 
 
 The Many standards such as SAE J1526 and research papers specify an engineering method analysis with a very basic statistical test to determine Fuel economy. All the standards depend on the consistency of measurements across trips (which essential depends on traffic conditions and driver's driving style). For example in Table below, 3rd measurement might be a valid measurement, but because it is not consistent with the 1st and 2nd measurements, it might be discarded
 
-|Measurement - 1|Measurement - 2|Measurement - 3|
-|----|----|----|
-|Kmpl|Kmpl|Kmpl|
-|17.1|17.2|16.1|
+| Measurement - 1 | Measurement - 2 | Measurement - 3 |
+| --------------- | -------------- | ---------------- |
+| Kmpl | Kmpl | Kmpl |
+| 17.1 | 17.2 | 16.1 |
+
 From the above table the average fuel economy would be ( 17.1 + 17.2 )/2  = 17.15 Kmpl
 
 Another method of analysis is shown in the figure below. The total trip is divided into micro-trips. The Fuel economy is then predicted against some independent parameters that affect fuel economy. However, this approach is prediction rather than an inference from an experiment.

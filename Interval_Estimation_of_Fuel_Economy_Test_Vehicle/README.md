@@ -36,4 +36,4 @@ In this method, the total trip is divided into micro-trips. Each microtrip is co
 
 ## Proposed Methodology
 
-![images](https://github.com/rohitsaikiran91/Inferential-Statistics-on-Automotive-test-data/blob/master/Interval_Estimation_of_Fuel_Economy_Test_Vehicle/Dumpt/Methodology.png)
+![images](https://github.com/rohitsaikiran91/Inferential-Statistics-on-Automotive-test-data/blob/master/Interval_Estimation_of_Fuel_Economy_Test_Vehicle/Dumpt/Methodology1.png)

@@ -29,3 +29,6 @@ From the above table the average fuel economy would be ( 17.1 + 17.2 )/2  = 17.1
 
 Another method of analysis is shown in the figure below. The total trip is divided into micro-trips. The Fuel economy is then predicted against some independent parameters that affect fuel economy. However, this approach is prediction rather than an inference from an experiment.
 
+![images](https://github.com/rohitsaikiran91/Inferential-Statistics-on-Automotive-test-data/blob/master/Interval_Estimation_of_Fuel_Economy_Test_Vehicle/Dumpt/MT_Example.jfif)
+
+![images](https://github.com/rohitsaikiran91/Inferential-Statistics-on-Automotive-test-data/blob/master/Interval_Estimation_of_Fuel_Economy_Test_Vehicle/Dumpt/Prediction.PNG)

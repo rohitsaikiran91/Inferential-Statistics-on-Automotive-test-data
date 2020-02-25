@@ -32,3 +32,5 @@ Another method of analysis is shown in the figure below. The total trip is divid
 ![images](https://github.com/rohitsaikiran91/Inferential-Statistics-on-Automotive-test-data/blob/master/Interval_Estimation_of_Fuel_Economy_Test_Vehicle/Dumpt/MT_Example.jfif)
 
 ![images](https://github.com/rohitsaikiran91/Inferential-Statistics-on-Automotive-test-data/blob/master/Interval_Estimation_of_Fuel_Economy_Test_Vehicle/Dumpt/Prediction.PNG)
+
+## Proposed Methodology

@@ -29,9 +29,11 @@ From the above table the average fuel economy would be ( 17.1 + 17.2 )/2  = 17.1
 
 An alternative method suggested by many research papers is fit an model between dependent variable (Fuel Economy) and independent variables (Average Vehicle Speed of the trip, acceleration levels and so on). Although this method embraces the variations in measurements, this approach is prediction rather than an inference from an experiment.
 In this method, the total trip is divided into micro-trips. Each microtrip is considered as a separate trip and both dependent (Fuel Economy) and independent variables are determined for each microtrip. Thus each microtrip is essentially a data point for prediction.
+
 ![images](https://github.com/rohitsaikiran91/Inferential-Statistics-on-Automotive-test-data/blob/master/Interval_Estimation_of_Fuel_Economy_Test_Vehicle/Dumpt/MT_Example.jfif)
 
 ![images](https://github.com/rohitsaikiran91/Inferential-Statistics-on-Automotive-test-data/blob/master/Interval_Estimation_of_Fuel_Economy_Test_Vehicle/Dumpt/Prediction.PNG)
 
 ## Proposed Methodology
 
+![images](https://github.com/rohitsaikiran91/Inferential-Statistics-on-Automotive-test-data/blob/master/Interval_Estimation_of_Fuel_Economy_Test_Vehicle/Dumpt/Methodology.png)

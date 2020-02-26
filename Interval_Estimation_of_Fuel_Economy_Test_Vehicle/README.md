@@ -37,3 +37,11 @@ In this method, the total trip is divided into micro-trips. Each microtrip is co
 ## Proposed Methodology
 
 ![images](https://github.com/rohitsaikiran91/Inferential-Statistics-on-Automotive-test-data/blob/master/Interval_Estimation_of_Fuel_Economy_Test_Vehicle/Dumpt/Methodology1.png)
+
+## Example of proposed methodology with average speed as independent variable
+
+### Sample Data: Timestamp data collected across a route
+![images](https://github.com/rohitsaikiran91/Inferential-Statistics-on-Automotive-test-data/blob/master/Interval_Estimation_of_Fuel_Economy_Test_Vehicle/Dumpt/Sample_data.png)
+
+### Microtrips and corresponding data of each microtrip for Fuel economy and Average vehicle speed
+![images](https://github.com/rohitsaikiran91/Inferential-Statistics-on-Automotive-test-data/blob/master/Interval_Estimation_of_Fuel_Economy_Test_Vehicle/Dumpt/MT_data.jpg)

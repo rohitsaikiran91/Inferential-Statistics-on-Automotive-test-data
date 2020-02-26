@@ -45,3 +45,8 @@ In this method, the total trip is divided into micro-trips. Each microtrip is co
 
 ### Microtrips and corresponding data of each microtrip for Fuel economy and Average vehicle speed
 ![images](https://github.com/rohitsaikiran91/Inferential-Statistics-on-Automotive-test-data/blob/master/Interval_Estimation_of_Fuel_Economy_Test_Vehicle/Dumpt/MT_data.jpg)
+
+### BOX PLOT Analysis to identify the outliers
+![images](https://github.com/rohitsaikiran91/Inferential-Statistics-on-Automotive-test-data/blob/master/Interval_Estimation_of_Fuel_Economy_Test_Vehicle/Dumpt/box_plot.jpg)
+
+###

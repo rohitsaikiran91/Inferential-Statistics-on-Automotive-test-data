@@ -49,4 +49,6 @@ In this method, the total trip is divided into micro-trips. Each microtrip is co
 ### BOX PLOT Analysis to identify the outliers
 ![images](https://github.com/rohitsaikiran91/Inferential-Statistics-on-Automotive-test-data/blob/master/Interval_Estimation_of_Fuel_Economy_Test_Vehicle/Dumpt/box_plot.jpg)
 
-###
+### FINAL INTERVAL ESTIMATION AND DATA REPRESENTATION
+![images](https://github.com/rohitsaikiran91/Inferential-Statistics-on-Automotive-test-data/blob/master/Interval_Estimation_of_Fuel_Economy_Test_Vehicle/DATA_VISUALIZATION/INTERVAL_ESTIMATION_BARCHART.JPG)
+![images](https://github.com/rohitsaikiran91/Inferential-Statistics-on-Automotive-test-data/blob/master/Interval_Estimation_of_Fuel_Economy_Test_Vehicle/DATA_VISUALIZATION/INTERVAL_ESTIMATION_LINEPLOT.JPG)
